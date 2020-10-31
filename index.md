@@ -1,40 +1,25 @@
-## Welcome to GitHub Pages
+# Позволь деньгам работать!
 
-You can use the [editor on GitHub](https://github.com/ofZorro/ofzorro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Больше Денег,
+# Меньше Усилий
+Наш робот (торговый алгоритм) на базе OsEngine автоматически находит благоприятные возможности для торговли внутри дня. Торгует вместо Вас и увеличивает Ваш доход *
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Просто. Никакой торговли. Честное партнерство
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+⦁	Регистрация на крипто бирже, генерация апи ключа
+⦁	Вы можете начать и прервать  в любой момент
+⦁	Нет оплаты за обслуживание - только честный % от прибыли. Вы не ждете, когда Вам заплатят, а отдаете часть прибыли Нам
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Минимум Убытков. Максимум Прибыли
+```markdown
+⦁	Создан с учетом минимизации убытков - работает лучше, чем рыночные индексы *
+⦁	Торговля 24 часа в сутки 7 дней в неделю
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ofZorro/ofzorro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Избавьтесь от принятия решений и торгового стресса
+Получите доступ к роботу, наслаждайтесь жизнью и максимизируйте свои шансы увеличить капитал
 
 
-Yudjina
+* Это не инвестиционное предложение. Крипто-рынки изменчивы и обладают высоким уровнем риска. Прошлые результаты никоим образом не являются гарантией будущих результатов. Прежде чем подкличться, проведите собственное исследование.
